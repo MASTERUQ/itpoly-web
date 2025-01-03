@@ -21,7 +21,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-6">
               <img
-                src="https://scontent.fcnx1-1.fna.fbcdn.net/v/t39.30808-6/459572266_1038987961560629_5992916616841721678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cP6DHXtBykkQ7kNvgE9C97o&_nc_oc=AdgSyKBOpAZlQK--X6B1M3PRfbEL7mNUbgKLhMDfMoM67XgBTlanNQE0Wi1XdVIgXXA&_nc_zt=23&_nc_ht=scontent.fcnx1-1.fna&_nc_gid=AQQbH_fxuPJdy6FF2uSYWsK&oh=00_AYDUXlpxTbc3BFO_qhOqjkWPvuCZ6ZZPTLL1dy7mBN6FZQ&oe=6773FE22"
+                src="https://www.khaosod.co.th/wpapp/uploads/2024/06/IMG_4567.jpeg"
                 alt="About Us"
                 className="img-fluid rounded"
               />
